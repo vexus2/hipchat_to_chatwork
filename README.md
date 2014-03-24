@@ -15,3 +15,8 @@ export HUBOT_HIPCHAT_ROOMS="ROOM"
 export CHATWORK_API_TOKEN="CHATWORK_TOKEN"
 export CHATWORK_ROOM_ID="CHATWORK_ROOM_ID"
 ```
+
+# Execute
+```
+./bin/hubot -a hipchat
+```
